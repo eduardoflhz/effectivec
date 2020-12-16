@@ -5,7 +5,6 @@ static unsigned int counter = 0;
 
 void increment(void) {
   counter++;
-  printf("%d", counter);
 }
 
 void retrieve(void) {
