@@ -6,4 +6,4 @@
 #define EFFECTIVEC_FACTORIAL_H
 
 #endif //EFFECTIVEC_FACTORIAL_H
-void factorial(int n);
+int factorial(int n);
