@@ -6,4 +6,4 @@
 #define EFFECTIVEC_FACTORIAL_H
 
 #endif //EFFECTIVEC_FACTORIAL_H
-int factorial(int n);
+unsigned long long int factorial(unsigned int n);

@@ -36,8 +36,8 @@ int main(int argc, char *argv[])
 //  int n = sizeof(arr)/sizeof(arr[0]);
 //  bubbleSort(arr, n);
 //  printArray(arr, n);
-  for(int i = 0;i<20;i++) {
-    printf("%d ",fibbonacci(i));
+  for(int i = 1;i<50; ++i) {
+    printf("%llu ",factorial(i));
   }
   return EXIT_SUCCESS;
 }

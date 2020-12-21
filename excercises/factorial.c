@@ -5,8 +5,7 @@
 
 #include "factorial.h"
 
-int factorial(int n) {
-  //base case
+unsigned long long factorial(unsigned int n) {
   if(n == 0) {
     return 1;
   } else {
