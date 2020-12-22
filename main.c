@@ -9,6 +9,7 @@
 #include "excercises/factorial.h"
 #include "excercises/bubble.h"
 #include "excercises/fibbonacci.h"
+#include "excercises/locale.h"
 
 
 int main(int argc, char *argv[])
@@ -36,8 +37,9 @@ int main(int argc, char *argv[])
 //  int n = sizeof(arr)/sizeof(arr[0]);
 //  bubbleSort(arr, n);
 //  printArray(arr, n);
-  for(int i = 1;i<50; ++i) {
-    printf("%llu ",factorial(i));
-  }
+//  for(int i = 1;i<50; ++i) {
+//    printf("%llu ",factorial(i));
+//  }
+  locale();
   return EXIT_SUCCESS;
 }
