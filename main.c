@@ -9,39 +9,39 @@
 #include "excercises/factorial.h"
 #include "excercises/bubble.h"
 #include "excercises/fibbonacci.h"
-#include "excercises/locale.h"
+//#include "excercises/locale.h"
 #include "excercises/file.h"
 
 int main(int argc, char *argv[])
 {
-    //  count();
-    //  wraparound();
-    //  overflow();
-    //  printf("%s", show_classification(2.21223456));
-    //  absolute_value(1);
-    //  memory_management();
-    //  func(14);
-    //  if (argc != 3 && argc != 4) {
+    count();
+    wraparound();
+    overflow();
+    printf("%s", show_classification(2.21223456));
+    absolute_value(1);
+    memory_management();
+    func(14);
+    //if (argc != 3 && argc != 4) {
     //    char *errmsg = (char *)malloc(80);
     //    sprintf(
-    //      errmsg,
-    //      "Sorry %s\n",
-    //      getenv("USER")
-    //      );
+    //            errmsg,
+    //            "Sorry %s\n",
+    //            getenv("USER")
+    //           );
     //    usage(errmsg);
     //    free(errmsg);
     //    exit(EXIT_FAILURE);
-    //  }
-    //  printf("Factorial: %d\n", factorial(5));
-    //  int arr[] = {64, 34, 25, 12, 22, 11, 90};
-    //  int n = sizeof(arr)/sizeof(arr[0]);
-    //  bubbleSort(arr, n);
-    //  printArray(arr, n);
-    //  for(int i = 1;i<50; ++i) {
-    //    printf("%llu ",factorial(i));
-    //  }
+    //}
+    printf("Factorial: %d\n", factorial(5));
+    int arr[] = {64, 34, 25, 12, 22, 11, 90};
+    int n = sizeof(arr)/sizeof(arr[0]);
+    bubbleSort(arr, n);
+    printArray(arr, n);
+    for(int i = 1;i<50; ++i) {
+        printf("%llu ",factorial(i));
+    }
     //locale();
-    //open_file();
+    open_file();
 
     return EXIT_SUCCESS;
 }

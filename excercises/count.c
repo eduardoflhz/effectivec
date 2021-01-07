@@ -9,19 +9,19 @@ unsigned int counter = 0;
 
 void increment(void)
 {
-  counter++;
+    counter++;
 }
 
 void retrieve(void)
 {
-  printf("%d\n", counter);
+    printf("%d\n", counter);
 }
 
 void count()
 {
-  for (int i = 0; i < 5; ++i) {
+    for (int i = 0; i < 5; ++i) {
+        retrieve();
+        increment();
+    }
     retrieve();
-    increment();
-  }
-  retrieve();
 }

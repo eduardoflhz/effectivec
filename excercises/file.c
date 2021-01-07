@@ -10,10 +10,10 @@ int open_file(void)
     }
     if (fseek(fp, 0, SEEK_END) != 0) {
         return EXIT_FAILURE;
-     }
+    }
     long int fpi = ftell(fp);
     if (fpi == -1L) {
-        perror("Tell");
+        perror("Tell: ");
         return EXIT_FAILURE;
     }
     printf("file position = %ld\n", fpi);

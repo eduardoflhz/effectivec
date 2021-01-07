@@ -1,0 +1,98 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARCHITECTURE_ID	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID$/;"	d	file:
+Abs	excercises/wrapflow.c	/^#define Abs(/;"	d	file:
+AbsM	excercises/wrapflow.c	/^#define AbsM(/;"	d	file:
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/Users\/eduardo\/Developer\/Github\/eduardoflhz\/effectivec\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/local\/Cellar\/cmake\/3.19.2\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/Users\/eduardo\/Developer\/Github\/eduardoflhz\/effectivec$/;"	m
+COMPILER_ID	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+C_DIALECT	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT /;"	d	file:
+C_DIALECT	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define C_DIALECT$/;"	d	file:
+C_DIALECT	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define C_DIALECT /;"	d	file:
+DEC	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+EFFECTIVEC_BUBBLE_H	excercises/bubble.h	/^#define EFFECTIVEC_BUBBLE_H$/;"	d
+EFFECTIVEC_CASTING_H	excercises/casting.h	/^#define EFFECTIVEC_CASTING_H$/;"	d
+EFFECTIVEC_COUNT_H	excercises/count.h	/^#define EFFECTIVEC_COUNT_H$/;"	d
+EFFECTIVEC_FACTORIAL_H	excercises/factorial.h	/^#define EFFECTIVEC_FACTORIAL_H$/;"	d
+EFFECTIVEC_FCLASSIFICATION_H	excercises/fclassification.h	/^#define EFFECTIVEC_FCLASSIFICATION_H$/;"	d
+EFFECTIVEC_FIBBONACCI_H	excercises/fibbonacci.h	/^#define EFFECTIVEC_FIBBONACCI_H$/;"	d
+EFFECTIVEC_LOCALE_H	excercises/file.h	/^#define EFFECTIVEC_LOCALE_H$/;"	d
+EFFECTIVEC_LOCALE_H	excercises/locale.h	/^#define EFFECTIVEC_LOCALE_H$/;"	d
+EFFECTIVEC_MEMORY_MANAGEMENT_H	excercises/memory_management.h	/^#define EFFECTIVEC_MEMORY_MANAGEMENT_H$/;"	d
+EFFECTIVEC_WRAPFLOW_H	excercises/wrapflow.h	/^#define EFFECTIVEC_WRAPFLOW_H$/;"	d
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+HEX	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+ID_VOID_MAIN	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID$/;"	d	file:
+RM	build/Makefile	/^RM = \/usr\/local\/Cellar\/cmake\/3.19.2\/bin\/cmake -E rm -f$/;"	m
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+STRINGIFY	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+absolute_value	excercises/fclassification.c	/^int absolute_value(int a)$/;"	f
+bubbleSort	excercises/bubble.c	/^void bubbleSort(int arr[], int n)$/;"	f
+casting	excercises/casting.c	/^void casting()$/;"	f
+char16_t	excercises/locale.c	/^typedef uint16_t char16_t;$/;"	t	file:
+char32_t	excercises/locale.c	/^typedef uint32_t char32_t;$/;"	t	file:
+const	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define const$/;"	d	file:
+count	excercises/count.c	/^void count()$/;"	f
+counter	excercises/count.c	/^unsigned int counter = 0;$/;"	v
+data	excercises/memory_management.c	/^    int data[];$/;"	m	struct:__anon1	file:
+factorial	excercises/factorial.c	/^unsigned long long factorial(unsigned int n) {$/;"	f
+fibbonacci	excercises/fibbonacci.c	/^int fibbonacci(int n)$/;"	f
+func	excercises/memory_management.c	/^void *func(size_t array_size) {$/;"	f
+increment	excercises/count.c	/^void increment(void)$/;"	f
+info_arch	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v
+info_platform	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version_internal	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v
+locale	excercises/locale.c	/^void locale(void)$/;"	f
+main	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	main.c	/^int main(int argc, char *argv[])$/;"	f
+memory_management	excercises/memory_management.c	/^int memory_management(void)$/;"	f
+num	excercises/memory_management.c	/^    size_t num;$/;"	m	struct:__anon1	file:
+open_file	excercises/file.c	/^int open_file(void)$/;"	f
+overflow	excercises/wrapflow.c	/^void overflow(void)$/;"	f
+printArray	excercises/bubble.c	/^void printArray(int arr[], int n)$/;"	f
+qnxnto	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+retrieve	excercises/count.c	/^void retrieve(void)$/;"	f
+safe_conversion	excercises/casting.c	/^int safe_conversion(signed long value)$/;"	f
+show_classification	excercises/fclassification.c	/^const char *show_classification(double x)$/;"	f
+swap	excercises/bubble.c	/^void swap(int *xp, int *yp)$/;"	f
+usage	excercises/memory_management.c	/^void usage(char *msg) {$/;"	f
+volatile	build/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c	/^# define volatile$/;"	d	file:
+widget	excercises/memory_management.c	/^} widget;$/;"	t	typeref:struct:__anon1	file:
+wraparound	excercises/wrapflow.c	/^void wraparound(void)$/;"	f
