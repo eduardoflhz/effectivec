@@ -8,3 +8,5 @@
 #endif //EFFECTIVEC_LOCALE_H
 
 int open_file(void);
+int open_file_alt(void);
+int formatted(void);

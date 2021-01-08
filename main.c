@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
     //    free(errmsg);
     //    exit(EXIT_FAILURE);
     //}
-    printf("Factorial: %d\n", factorial(5));
+    printf("Factorial: %llu\n", factorial(5));
     int arr[] = {64, 34, 25, 12, 22, 11, 90};
     int n = sizeof(arr)/sizeof(arr[0]);
     bubbleSort(arr, n);
@@ -42,6 +42,7 @@ int main(int argc, char *argv[])
     }
     //locale();
     open_file();
-
+    open_file_alt();
+    printf("status: %d", formatted());
     return EXIT_SUCCESS;
 }
