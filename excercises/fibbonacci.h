@@ -5,6 +5,6 @@
 #ifndef EFFECTIVEC_FIBBONACCI_H
 #define EFFECTIVEC_FIBBONACCI_H
 
+int fibbonacci(int n);
 #endif //EFFECTIVEC_FIBBONACCI_H
 
-int fibbonacci(int n);

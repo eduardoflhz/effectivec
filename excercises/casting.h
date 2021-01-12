@@ -5,10 +5,7 @@
 #ifndef EFFECTIVEC_CASTING_H
 #define EFFECTIVEC_CASTING_H
 
-#endif //EFFECTIVEC_CASTING_H
-
-#include <limits.h>
-#include <errno.h>
-
 void casting();
 int safe_conversion(signed long value);
+#endif //EFFECTIVEC_CASTING_H
+
